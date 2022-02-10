@@ -194,7 +194,7 @@ align-self: center;
 
 /* Reseñas *//* Reseñas *//* Reseñas *//* Reseñas *//* Reseñas *//* Reseñas *//* Reseñas */
 .pic2{
-  width: 20%;
+  width: 23%;
   float:left;
   padding: 0;
   margin-left: 50px;
@@ -269,7 +269,7 @@ hr {
   position: relative;
   text-align: center;
   width: 23%;
-  margin-left: 20px;
+  margin-left: 18px;
   padding-top: 10px;
 }
 .time-horizontal li b:before {
