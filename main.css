@@ -45,8 +45,6 @@ nav{
   background-color: #212121;
   display: none;
   flex: 1 1 0%;
-  /* justify-content: flex-end */
-  /* align-content: flex-end; */
   text-align: right;
   margin: 0 -16px;
 }
@@ -141,6 +139,7 @@ nav{
 }
 .titulo{
   font-weight: bold;
+  margin-top: 8px;
 }
 .sub{
   margin-left: 60px;
@@ -221,7 +220,7 @@ align-self: center;
   background-color:lightslategray;
   margin-bottom:500 ;
   padding-bottom: 200px;
-  margin-top: 190px;
+  margin-top: 100px;
   height: auto;
   width: auto;
 }
@@ -254,7 +253,7 @@ hr {
 }
 /* corte */
 .container3{
-  padding-top: 400px;
+  padding-top: 100px;
   align-content: center;
 }
 .time-horizontal {
